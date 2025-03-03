@@ -10,7 +10,7 @@ function clearscreen(){
     display.value = "";
 }
 
-function evaluate(){
+function evaluateExpression(){
     try{
         display.value = eval(display.value);
         console.log(display.value);
