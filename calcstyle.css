@@ -15,6 +15,8 @@
 }
 
 .screen{
+    padding-left: 19px;
+    padding-right: 19px;
     top: 10%;
     margin-top: 15px;
     margin-bottom: 15px;
@@ -26,6 +28,8 @@
     border-radius: 12px;
     border-width: 0 0 4px;
     box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
     
 }
 
